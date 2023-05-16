@@ -13,7 +13,7 @@
 
 // console.log(result)
 
-// var i = 23
+var i = 23
 // var j = 10
 
 // do{
